@@ -21,7 +21,7 @@ Campus CareerHub is a web platform architected using the **MERN stack (MongoDB, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Ayushk00/CCH-MERN
+git clone https://github.com/sandarbhkansal007/campus-careerhub
 ```
 2. Install dependencies:
 ```bash
